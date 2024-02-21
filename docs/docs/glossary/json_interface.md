@@ -1,5 +1,5 @@
 ---
-title: JSON Interface
+title:JSON Interface
 ---
 
 The JSON interface is a `JSON` object describing the [Application Binary Interface (ABI)](https://docs.soliditylang.org/en/develop/abi-spec.html) for an Ethereum smart contract.
